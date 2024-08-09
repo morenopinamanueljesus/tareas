@@ -24,10 +24,23 @@
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes en tu sistema:
 
 *   **Java Development Kit (JDK)**: Versión 17 o superior.
+*   **Maven**: Apache Maven 3.9.8.
 *   **Docker**: Asegúrate de que Docker esté correctamente instalado y configurado.
 *   **Archivo JAR**: `tareas-0.0.1-SNAPSHOT.jar` ubicado en `C:\Users\Administrador\Desktop\tareas\target`.
 
 ### 2\. Configuración del Entorno
+#### Configuración de Maven
+1.  **Verificar la instalación de Maven**: Abre una terminal o símbolo del sistema y ejecuta:
+
+    `mvn -version`
+2.  **Establecer variables de entorno (Opcional)**: Si es necesario, agrega la ruta de Maven al `PATH` en las variables de entorno del sistema.
+   
+3.  **Ejecuta el comando para construir el JAR**: Usa Maven para construir el archivo JAR ejecutando:
+
+    `cd tareas`
+    
+    `mvn clean package`
+    Esto compilará el proyecto y empaquetará el código en un archivo JAR. El archivo JAR se encontrará en el directorio target.
 
 #### Configuración de Java
 
@@ -121,3 +134,4 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes en 
 ### Conclusión
 
 Siguiendo estos pasos, podrás configurar y ejecutar la aplicación tanto utilizando Docker como directamente con Java. Asegúrate de que todos los componentes estén correctamente instalados y configurados para evitar problemas durante la ejecución.
+
