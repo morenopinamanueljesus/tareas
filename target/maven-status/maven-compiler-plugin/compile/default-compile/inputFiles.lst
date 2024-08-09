@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\application\controller\TareaController.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\application\dto\TareaRequest.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\application\dto\TareaResponse.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\application\mapper\TareaMapper.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\common\exceptions\TareaNotFoundException.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\domain\model\TareaEntity.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\domain\model\TareaEstado.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\domain\repository\TareaRepository.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\domain\service\TareaService.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\domain\service\TareaServiceImpl.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\infrastructure\dao\TareaDao.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\infrastructure\dao\TareaDaoImpl.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\infrastructure\repository\MongoTareaRepository.java
+C:\Users\Administrador\Desktop\tareas\src\main\java\com\prueba\tareas\TareasApplication.java

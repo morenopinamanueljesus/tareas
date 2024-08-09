@@ -1,0 +1,15 @@
+com\prueba\tareas\infrastructure\dao\TareaDaoImpl.class
+com\prueba\tareas\TareasApplication.class
+com\prueba\tareas\domain\repository\TareaRepository.class
+com\prueba\tareas\application\dto\TareaResponse.class
+com\prueba\tareas\domain\service\TareaService.class
+com\prueba\tareas\application\mapper\TareaMapperImpl.class
+com\prueba\tareas\domain\service\TareaServiceImpl.class
+com\prueba\tareas\domain\model\TareaEstado.class
+com\prueba\tareas\application\mapper\TareaMapper.class
+com\prueba\tareas\common\exceptions\TareaNotFoundException.class
+com\prueba\tareas\infrastructure\repository\MongoTareaRepository.class
+com\prueba\tareas\domain\model\TareaEntity.class
+com\prueba\tareas\application\controller\TareaController.class
+com\prueba\tareas\infrastructure\dao\TareaDao.class
+com\prueba\tareas\application\dto\TareaRequest.class
